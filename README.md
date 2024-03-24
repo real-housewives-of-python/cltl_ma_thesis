@@ -8,12 +8,19 @@ Our approach consisted of two steps: first, the selection and creation of our ow
 This repository contains the following:
 
 -- results_CHATGPT3.5 - a tsv file containing the results of using ChatGPT3.5 for prompt-guided topic extraction. 
+
 -- results_CHATGPT4 - a tsv file containing the results of using ChatGPT4 for prompt-guided topic extraction. 
--- main_py.py - a script that calculates the similarity scores and similarity threshold (Perfect Match, Almost Match, Substantial Match, Different Interpretation). Use the files results_CHATGPT3.5 / results_CHATGPT4 as input file. 
+
+-- main_py.py - a script that calculates the similarity scores and similarity threshold (Perfect Match, Almost Match, Substantial Match, Different Interpretation). Use the files results_CHATGPT3.5 / results_CHATGPT4 as input file.
+
 -- Confusion_matrices.ipynb - a Jupyter Notebook which outputs 4 confusion matrices: ChatGPT4 - Knowledge (Closed), ChatGPT4 - Lyrics (Closed), ChatGPT3.5 - Knowledge (Closed), ChatGPT3.5 - Lyrics (Closed).
+
 -- cosine_CHATGPT3.5 - a tsv file containing the similarity scores for ChatGPT3.5.
+
 -- cosine_CHATGPT4 - a tsv file containing the similarity scores for ChatGPT4.
+
 -- thresholds_ChatGPT3.5 - a tsv file containing the similarity thresholds for ChatGPT3.5.
+
 -- thresholds_ChatGPT4 - a tsv file containing the similarity thresholds for ChatGPT4.
 
 
