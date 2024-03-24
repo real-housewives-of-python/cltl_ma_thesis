@@ -1,0 +1,101 @@
+Track	Artist	Total words	N. unique words	Most common words
+All I Can Do	Dolly Parton	130	55	['keep', 'love', 'falling', 'youall', 'letting']
+Deeper Understanding	Kate Bush	82	59	['deeper', 'know', 'bring', 'love', 'turn']
+Crazy Little Thing Called Love	Queen	174	60	['thing', 'called', 'yeah', 'little', 'love']
+Love Song	Lana del Rey	131	72	"[""i'm"", 'make', 'car', 'safe', 'taste']"
+Meaning of Life	Kelly Clarkson	176	78	['life', 'meaning', 'show', 'feel', 'lifemeaning']
+After All	Elton John ft Charlie Puth	76	38	['oh', 'love', 'youoh', 'compares', 'gave']
+All Night Parking	Adele	75	54	"['night', ""i'm"", 'get', 'dream', 'youall']"
+Best of Me	Alicia Keys	89	62	['forever', 'get', 'gotta', 'rock', 'best']
+Halley’s Comet	Billie Eilish	71	56	['ooh', 'want', 'love', 'slept', 'nights']
+Overpass Graffiti	Ed Sheeran	164	91	['never', 'way', 'us', 'know', 'may']
+Maureen	Sade	191	79	['ooh', 'ba', 'meet', 'new', 'never']
+Way Back	TLC	235	125	['way', 'ever', 'go', 'things', 'back']
+In Bloom	Nirvana	104	28	['likes', 'meansknows', 'onewho', 'pretty', 'songsand']
+Bobby Jean	Bruce Springsteen	114	89	['could', 'wished', 'ever', 'say', 'goodbye']
+Grigio Girls	Lady Gaga	144	71	['ooh', 'pinotpinot', 'grigio', 'oh', 'make']
+Best Friends	The Weeknd	154	74	['yeah', 'best', 'friend', 'oh', 'friends']
+Blue Banisters	Lana del Rey	184	146	"['banisters', 'said', ""there's"", ""that's"", 'man']"
+Eddie	Red Hot Chili Peppers*	108	82	"['remember', 'last', 'night', ""i'm"", 'please']"
+24	Kanye West	180	82	"['gonna', ""god's"", 'make', 'feels', 'alright']"
+Eyes Closed	Ed Sheeran	221	109	"['eye', ""dancin'"", 'eyes', 'keep', ""i'll""]"
+Candy Shop	50 Cent	282	161	['til', 'spot', 'take', 'candy', 'going']
+Aberdeen	Kurt Cobain	399	320	['got', 'day', 'went', 'would', 'school']
+Lemon Song	Led Zeppelin	158	105	['baby', 'yeah', 'hey', 'babe', 'whoa']
+Birthday cake	Rihanna	99	55	['cake', 'name', 'put', 'cakecake', 'wanna']
+Black Star	Radiohead	77	53	['falling', 'youwhat', 'coming', 'black', 'starblame']
+Cuff It	Beyonce	298	127	"['fuck', 'yeah', 'go', ""gon'"", 'night']"
+Virgo's Groove	Beyonce	319	150	['love', 'right', 'baby', 'come', 'want']
+Summer Renaissance	Beyonce	252	124	['want', 'good', 'make', 'way', 'wanna']
+Take My breath	The Weeknd	172	82	['breath', 'oh', 'take', 'away', 'babe']
+A&W	Lana del Rey	340	147	['love', 'jimmy', 'get', 'wanna', 'highjimmy']
+Everybody Hurts	R.E.M.	81	51	['hold', 'hurts', 'everybody', 'night', 'life']
+By the Grace of God	Katy Perry	153	83	['way', 'mirror', 'grace', 'picked', 'back']
+Cleaning My Gun	Chris Cornell	136	76	"['heaven', 'hell', 'takes', ""lifei'll"", 'cleaning']"
+Lithium	Nirvana	154	49	"[""i'm"", 'gonna', 'yeahyeah', 'cracki', 'cause']"
+Daddy’s Gonna Pay for your Crashed Car	U2	98	64	['sha', 'aha', 'gonna', 'pay', 'crashed']
+Boats	Ed Sheeran	95	47	['waves', 'break', 'boat', 'know', 'feel']
+Borderline	Ed Sheeran	104	69	"[""i'm"", 'way', 'one', 'feel', 'running']"
+Cry Your Heart Out	Adele	147	78	"['heart', ""it'll"", 'clean', 'facewhen', 'doubt']"
+My Mind & Me	Selena Gomez	131	75	['ah', 'mind', 'feel', 'like', 'hard']
+Forever Winter	Taylor Swift	158	97	['says', 'fall', 'time', 'pieces', 'summer']
+Betcha Gon’ Know (The Prologue)	Mariah Carey	252	166	"['la', ""gon'"", 'know', 'feels', 'though']"
+A Man and a Woman	U2	152	96	['love', 'never', 'mysterious', 'distancebetween', 'man']
+Between the Cheats	Amy Winehouse	160	74	['ohhh', 'ooh', 'wooh', 'hoo', 'cheatswoah']
+Cold Shoulder	Adele	112	58	['look', 'wish', 'heryou', 'see', 'grace']
+Confession	Destiny's Child	366	125	['ooh', 'clean', 'oh', 'feel', 'uh']
+Muddy Feet	Miley Cyrus	108	60	['fuck', 'something', 'coming', 'know', 'house']
+I Heard You’re Married	The Weeknd ft. Lil Wayne	276	135	"['oh', 'girl', ""can't"", 'married', 'heard']"
+She Don’t Know	Carrie Underwood	123	88	['know', 'toi', 'bet', 'thinks', 'got']
+One Right Now	Post Malone* ft. The Weeknd	210	76	['one', 'right', 'oh', 'got', 'yeah']
+High Infidelity	Taylor Swift	202	84	['dancing', 'around', 'know', 'infidelityput', 'really']
+A Different corner	George Michael	69	52	"['would', 'never', 'say', 'love', ""i've""]"
+I Can’t Quit You Baby	Led Zeppelin	65	40	"['know', 'love', 'hear', 'babyyou', ""can't""]"
+All of Me	Frank Sinatra	46	39	['took', 'left', 'take', 'good', 'without']
+Armatage Shanks	Green Day*	69	45	"[""pessimisti'm"", 'loner', 'must', 'insiston', 'catastrophic']"
+Back to Black	Amy Winehouse	116	54	['back', 'go', 'said', 'goodbye', 'wordsi']
+Don’t You	Taylor Swift	99	60	"['ah', 'say', 'smile', 'ask', ""i've""]"
+Let Somebody Go	Coldplay	129	62	['oh', 'let', 'somebody', 'love', 'hurts']
+Hits Different	Taylor Swift	212	132	['hits', 'different', 'cause', 'say', 'love']
+Jesus Lord	Kanye West	740	459	['jesus', 'lord', 'like', 'know', 'someone']
+Blue Banisters	Lana del Rey	184	146	"['banisters', 'said', ""there's"", ""that's"", 'man']"
+A Baltimore Love Thing	50 Cent	382	231	['love', 'got', 'thing', 'see', 'need']
+Bad	Frank Ocean	180	105	['always', 'taking', 'wanna', 'miss', 'badmiss']
+Beauty and the Beast	David Bowie	76	56	"['beauty', ""can't"", 'say', 'beast', 'wanted']"
+Brown Sugar	D’Angelo	208	77	"['sugar', 'brown', 'want', 'love', ""i'm""]"
+Cold Turkey	John Lennon	61	50	['turkey', 'got', 'see', 'oh', 'wish']
+Tippa my Tongue	Red Hot Chili Peppers*	186	92	['ya', 'get', 'tip', 'know', 'begunfunky']
+Gasoline	The Weeknd	148	100	"['five', 'know', 'around', ""i'm"", 'let']"
+Jimmy, Brian and Mike	Eminem	401	238	['let', 'get', 'jimmy', 'mikeronnie', 'bobby']
+Bad Habits 	Ed Sheeran	231	87	['ooh', 'bad', 'habits', 'lead', 'lose']
+Is This Love (09)	Eminem	370	239	"['like', ""i'm"", 'yeah', 'never', ""feelin'""]"
+40	U2	59	26	['sing', 'long', 'song', 'new', 'songi']
+Act of God	Prince	155	90	['act', 'want', 'godcall', 'except', 'god']
+After Forever	Black Sabbath	116	91	['think', 'god', 'say', 'thought', 'dead']
+Anytime You Need a Friend	Mariah Carey	93	58	['never', 'ever', 'need', 'alone', 'love']
+Brightest Morning Star	Britney Spears	142	63	['light', 'brightest', 'morning', 'beautiful', 'gets']
+Mood Ring	Lorde*	153	97	['away', 'ay', 'blows', 'floating', 'kinda']
+Rich Spirit	Kendrick Lamar*	397	202	"['duh', ""i'm"", 'ah', 'dun', 'ooh']"
+Please God Don’t Tell Anyone	Jack White*	103	70	['god', 'tell', 'started', 'please', 'even']
+Freedom	Justin Bieber	124	93	['feel', 'good', 'freedom', 'mmm', 'big']
+Praise God	Kanye West	347	201	"['get', ""i'm"", 'right', ""let's"", 'still']"
+42	Coldplay	66	28	['living', 'thought', 'might', 'ghostyou', 'get']
+Hammer To Fall	Queen	107	93	['hammer', 'time', 'oh', 'one', 'know']
+Recovering	Celine Dion	76	53	['back', 'piece', 'little', 'day', 'dayone']
+Art of Dying	George Harrison	66	53	"['come', 'time', 'art', ""there'll"", 'us']"
+Fade to Black	Metallica*	72	61	"['one', 'seems', 'lost', 'nothing', ""can't""]"
+Everybody Dies	Billie Eilish	75	66	['everybody', 'might', 'wanna', 'dies', 'like']
+Ghosts Again	Depeche Mode	43	31	"[""we'll"", 'ghosts', 'dreamingthoughtless', 'thoughts', 'friendswe']"
+Show Me How	Foo Fighters	103	51	"['show', ""i'll"", 'take', 'care', 'everything']"
+United in Grief	Kendrick Lamar*	326	239	"['tell', 'grieve', 'em', 'whoa', ""i'm""]"
+Kill or Be Killed	Muse	68	52	"['tried', 'kill', ""we've"", 'oh', 'hard']"
+911 Mr Lonely	Tyler, the Creator*	366	236	['call', 'one', 'nine', 'never', 'lonely']
+Alien	Britney Spears	127	47	['alone', 'alonenot', 'like', 'stars', 'sky']
+Biggest Mistake	Rolling Stones	160	94	"['hoo', 'think', ""i've"", 'made', 'biggest']"
+Heartbreak Hotel	Elvis Presley	104	64	"['lonely', 'could', 'get', 'babywell', ""they'll""]"
+Eleanor Rigby	Beatles	80	46	['lonely', 'look', 'ah', 'peoplewhere', 'people']
+Alone	Burna Boy	170	104	['leave', 'go', 'fit', 'make', 'body']
+Never Felt So Alone	Billie Eilish ft Labrinth	123	56	['alone', 'felt', 'never', 'na', 'oh']
+Nobody gets me	SZA	112	68	"['gets', ""i'm"", 'wanna', 'youhow', 'supposed']"
+Old Memories	Alicia Keys	138	82	"['uh', 'yeah', 'go', 'never', ""ain't""]"
+All of the Girls You Loved Before	Taylor Swift	158	101	['ooh', 'girls', 'loved', 'love', 'made']
